@@ -1,7 +1,7 @@
 # LEGO Database Analysis
 
 ### Project Overview
-This data analysis projects aims to provide insights into the LEGO sets released between 1950 and 2017.
+This data analysis project aims to provide insights into the LEGO sets released between 1950 and 2017.
 
 ### Data Sources
 LEGO Data: https://www.kaggle.com/datasets/rtatman/lego-database
