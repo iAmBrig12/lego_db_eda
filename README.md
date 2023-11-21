@@ -30,13 +30,19 @@ EDA involved exploring the LEGO data to answer key questions, such as
 ### Results/Findings
 The analysis results are summarized as follows:
 1. LEGO has been steadily releasing more sets as the years pass. Some years have significant spikes in sets released.
+   
    ![image](https://github.com/iAmBrig12/lego_db_eda/assets/97715791/0cefdb12-a5b7-4cb3-8309-ad9c18ef1fd6)
-2. The average number of pieces in a particular set has also increased over the years.
+   
+3. The average number of pieces in a particular set has also increased over the years.
+   
    ![image](https://github.com/iAmBrig12/lego_db_eda/assets/97715791/c0d831b0-728c-4cc1-ae7a-4de207c9d612)
-3. LEGO has been increasingly adding themes over the years, though there is a major dip in theme count in the years after 2012.
+   
+5. LEGO has been increasingly adding themes over the years, though there is a major dip in theme count in the years after 2012.
+   
    ![image](https://github.com/iAmBrig12/lego_db_eda/assets/97715791/f7b61af1-e762-4cfa-ac1e-01c70c0e8c9e)
-4. The top 5 themes with the most parts on average are Modular Buildings, Mosaic, Sculptures, Ultimate Collector Series, and FIRST LEGO League, in that order.
-5. The top 5 part categories are Minifigs, Minifig Accessories, Non-LEGO, (Duplo, Quatro and Primo), and Tiles Printed, in that order.
+   
+7. The top 5 themes with the most parts on average are Modular Buildings, Mosaic, Sculptures, Ultimate Collector Series, and FIRST LEGO League, in that order.
+8. The top 5 part categories are Minifigs, Minifig Accessories, Non-LEGO, (Duplo, Quatro and Primo), and Tiles Printed, in that order.
 
 
 
